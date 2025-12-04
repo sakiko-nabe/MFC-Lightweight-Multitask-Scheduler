@@ -7,7 +7,7 @@
 
 本项目是一个基于 **MFC (Microsoft Foundation Classes)** 的轻量级多任务调度系统。项目采用 **三层架构** 设计，支持一次性任务、延迟任务和周期性任务的并发执行。
 
-[cite_start]核心目标是演示多线程编程、资源安全管理 (RAII) 以及多种设计模式（Singleton, Factory, Strategy, Observer）在 C++ 桌面应用中的综合运用。
+核心目标是演示多线程编程、资源安全管理 (RAII) 以及多种设计模式（Singleton, Factory, Strategy, Observer）在 C++ 桌面应用中的综合运用。
 
 ## ✨ 核心功能 (Features)
 
