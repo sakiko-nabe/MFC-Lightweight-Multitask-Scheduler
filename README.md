@@ -2,8 +2,6 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20x64-blue)
 ![Framework](https://img.shields.io/badge/framework-MFC-orange)
-![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202022-purple)
-AI 辅助编程实践课程
 
 ## 📖 项目简介 (Introduction)
 
@@ -47,6 +45,6 @@ MultiTaskScheduler/
 │   ├── LogWriter.h             # RAII 日志工具
 │   └── IObserver.h             # 观察者接口
 ├── docs/
-[cite_start]│   └── ai_logs/                # AI 辅助编程日志 (Prompt/Response/Diff) [cite: 130]
+│   └── ai_logs/                # AI 辅助编程日志 (Prompt/Response/Diff) [cite: 130]
 ├── README.md                   # 项目说明文档
-└── MultiTaskScheduler.sln      # VS2022 解决方案
+└── MultiTaskScheduler.sln      # VS2026 解决方案
